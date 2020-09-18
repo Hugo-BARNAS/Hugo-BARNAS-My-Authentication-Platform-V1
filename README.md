@@ -1,5 +1,6 @@
 # Project Name : My Authentication Platform (V1)
-> Use SQL Node.js -
+> Use SQL - 
+> Node.js -
 > Use PhpMyAdmin -
 > LAMP / WAMP / MAMP
 > Use SQL database -
