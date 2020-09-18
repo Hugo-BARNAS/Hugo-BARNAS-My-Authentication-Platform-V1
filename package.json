@@ -1,0 +1,23 @@
+{
+  "name": "myauthentificationplateform",
+  "version": "1.0.0",
+  "description": "mysql security",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5"
+  },
+  "scripts": {
+    "start":"nodemon ./api/src/index.js",
+    "db":"nodemon ./api/src/database/db.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
