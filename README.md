@@ -4,6 +4,7 @@
 > LAMP / WAMP / MAMP
 > Use SQL database
 > Create a system of aunthentication
+> HASH
 
 ## Table of contents
 * [General info](#general-info)
