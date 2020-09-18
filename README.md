@@ -1,9 +1,9 @@
 # Project Name : My Authentication Platform (V1)
-> Use SQL Node.js
-> Use PhpMyAdmin
+> Use SQL Node.js -
+> Use PhpMyAdmin -
 > LAMP / WAMP / MAMP
-> Use SQL database
-> Create a system of aunthentication
+> Use SQL database -
+> Create a system of aunthentication -
 > HASH
 
 ## Table of contents
