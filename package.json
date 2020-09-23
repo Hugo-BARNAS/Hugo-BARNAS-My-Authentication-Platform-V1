@@ -6,11 +6,16 @@
   "dependencies": {
     "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "init": "^0.1.2",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.3"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.11.5"

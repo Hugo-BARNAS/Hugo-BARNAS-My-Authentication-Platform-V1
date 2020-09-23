@@ -29,7 +29,7 @@ const saltRounds = 10;
 //     }
 // })
 
-router.post('/sign-in', async function (req, res) {
+router.post('/sign-up', async function (req, res) {
     const password = req.body.password;
     console.log(password)
     const encryptedPassword = await bcrypt.hash(password, saltRounds);
@@ -50,7 +50,7 @@ router.post('/sign-in', async function (req, res) {
 
 ///////////// GET SANS MOT DE PASSE CRYPTE ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// router.get('/sign-up', function (req, res) {
+// router.get('/sign-in', function (req, res) {
 //     dbname.query(`SELECT * FROM users WHERE email = '${req.body.email}' AND password = '${req.body.password}'`, function (err, result) {
 //         if (err) throw err;
 //         console.log(result);
@@ -63,11 +63,11 @@ router.post('/sign-in', async function (req, res) {
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-router.post('/sign-up', async function (req, res) {
+router.post('/sign-in', async function (req, res) {
     const email = req.body.email;
     const password = req.body.password;
     dbname.query(`SELECT * FROM users WHERE EmailAdress = ?`, [email], async function (error, results, fields) {
-        console.log(results);
+        // console.log(results);
         if (error) {
             res.send({
                 "code": 400,
@@ -79,12 +79,12 @@ router.post('/sign-up', async function (req, res) {
                 if (comparision) {
                     res.send({
                         "code": 200,
-                        "sucess": "login sucessfull"
+                        "success": "login sucessfull"
                     })
                 } else {
                     res.send({
                         "code": 204,
-                        "sucess": "Email and Password does not match"
+                        "success": "Email and Password does not match"
                     })
                 }
             }
