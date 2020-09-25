@@ -1,4 +1,6 @@
-# Project Name : My Authentication Platform (V1)
+# project statement:
+
+# Project Name : My Authentication Platform (V1): Techno used:
 > Use SQL - 
 > Node.js -
 > Vue.js -
