@@ -1,4 +1,11 @@
-# project statement:
+![](https://img.shields.io/badge/MySQL-lightgrey?logo=MySQL&color=lightgrey)
+![](https://img.shields.io/badge/JavaScript-inactive?logo=JavaScript)
+![](https://img.shields.io/badge/Node.js-inactive?logo=Node.js&color=brightgreen)
+![](https://img.shields.io/badge/Vue.js-green?logo=Node.js&color=brightgreen)
+<img src="https://img.shields.io/badge/vue.router-green.svg" alt="vue-router">
+
+# Project statement:
+https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
 
 # Project Name : My Authentication Platform (V1): Techno used:
 > Use SQL - 
