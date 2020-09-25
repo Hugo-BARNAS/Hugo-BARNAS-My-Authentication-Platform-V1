@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/MySQL-lightgrey?logo=MySQL&color=lightgrey)
 ![](https://img.shields.io/badge/JavaScript-inactive?logo=JavaScript)
 ![](https://img.shields.io/badge/Node.js-inactive?logo=Node.js&color=brightgreen)
-![](https://img.shields.io/badge/Bootstrap-blueviolet?logo=Node.js&color=blueviolet)
+![](https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&color=blueviolet)
 ![](https://img.shields.io/badge/Vue.js?logo=Vue.js&color=green)
 <img src="https://img.shields.io/badge/vue.router-green.svg" alt="vue-router">
 ![](https://img.shields.io/badge/vuex-made%20in-green)
