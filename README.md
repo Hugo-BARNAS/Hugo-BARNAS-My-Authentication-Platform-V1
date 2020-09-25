@@ -1,6 +1,8 @@
 # Project Name : My Authentication Platform (V1)
 > Use SQL - 
 > Node.js -
+> Vue.js -
+> Vuex -
 > Use PhpMyAdmin -
 > LAMP / WAMP / MAMP
 > Use SQL database -
