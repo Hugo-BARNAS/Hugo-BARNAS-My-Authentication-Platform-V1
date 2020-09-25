@@ -4,10 +4,10 @@
 ![](https://img.shields.io/badge/Vue.js-green?logo=Node.js&color=brightgreen)
 <img src="https://img.shields.io/badge/vue.router-green.svg" alt="vue-router">
 
-# Project statement:
+# Project Statement:
 https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
 
-# Project Name : My Authentication Platform (V1): Techno used:
+# Project Name: My Authentication Platform (V1): Techno used:
 > Use SQL - 
 > Node.js -
 > Vue.js -
@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 > HASH -
 > TOKEN
 
-## Table of contents
+# Table of contents:
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Demo](#demo)
@@ -27,14 +27,14 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 * [Contact](#contact)
 
 
-## Screenshots
+# Screenshots:
 > Use SQL database -
 <img width="816" alt="Capture d’écran 2020-09-25 à 13 02 45" src="https://user-images.githubusercontent.com/57058997/94259926-98c7d400-ff2f-11ea-89b0-6b61aa8cc0ea.png">
 
-## Demo
+# Demo:
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57058997/94261601-69669680-ff32-11ea-89b0-5de4bb65c8fb.gif)
 
-## Technologies
+# Technologies:
 
 * JavaScript
 * Node.js
@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 * bcrypt 
 * Hash
 
-## What i learn, pratice: 
+# What i learn, pratice: 
 <ul>
  <li>SQL database
  <li>MySQL SELECT FROM
@@ -52,10 +52,10 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
  <li>Hash
 </ul>
  
-## Status
+# Status:
 Project is:  _finished_
 
-## Contact
+# Contact:
 Created by Hugo BARNAS
 hugo.barnas@gmail.com
 
