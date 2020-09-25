@@ -52,7 +52,9 @@ export default {
       let that = this;
       axios
         .post("http://localhost:3000/sign-in", this.form)
+        
         .then((response) => {
+          that.$store.dispatch("sentToken",response.data.token)
           switch (response.data.code) {
             case 200:
               that.$router.push("/dashboard");
