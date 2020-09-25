@@ -8,7 +8,7 @@
 
 
 # Project Name: 
-My Authentication Platform (V1 & V2):
+My Authentication Platform (V1 & V2)
 
 # Link Project: 
 https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
