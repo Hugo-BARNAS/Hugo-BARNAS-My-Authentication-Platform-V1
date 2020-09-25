@@ -7,7 +7,7 @@
 > LAMP / WAMP / MAMP
 > Use SQL database -
 > Create a system of aunthentication -
-> HASH
+> HASH -
 > TOKEN
 
 ## Table of contents
