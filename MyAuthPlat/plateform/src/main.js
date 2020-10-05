@@ -16,6 +16,10 @@ Vue.use(VueRouter);
 Vue.use(BootstrapVue);
 Vue.use(IconsPlugin);
 
+//VUELIDATE
+import Vuelidate from 'vuelidate';
+Vue.use(Vuelidate);
+
 //STORE
 import { store } from './store';
 

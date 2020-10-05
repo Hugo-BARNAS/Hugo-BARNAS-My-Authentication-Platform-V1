@@ -11,11 +11,15 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "init": "^0.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.0.0-beta.2",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
     "vue": "^2.6.12",
-    "vue-router": "^3.4.3"
+    "vue-router": "^3.4.3",
+    "vuelidate": "^0.7.5",
+    "vuex-persistedstate": "^3.1.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.11.5"
