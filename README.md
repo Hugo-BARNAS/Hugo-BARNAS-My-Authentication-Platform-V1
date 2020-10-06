@@ -10,7 +10,7 @@
 # Project Name: My Authentication Platform (V1, V2, V3)
 
 
-# Link Project: 
+## Link Project: 
 https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
 
 # Techno used:
@@ -65,6 +65,6 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 Project is:  _V3_Middleware
 
 # Contact:
-Created by Hugo BARNAS
-hugo.barnas@gmail.com
+* Created by Hugo BARNAS
+* hugo.barnas@gmail.com
 
