@@ -14,15 +14,17 @@ My Authentication Platform (V1 & V2)
 https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
 
 # Techno used:
+> Js -
+> BootstrapVue -
 > SQL - 
 > Node.js -
 > Vue.js -
 > Vuex -
 > PhpMyAdmin -
-> LAMP / WAMP / MAMP -
+> MySqlWorkBench
+> MAMP -
 > SQL database -
-> HASH -
-> TOKEN
+
 
 # Table of contents:
 * [General info](#general-info)
@@ -45,6 +47,9 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 * SQL database
 * bcrypt 
 * Hash
+* HASH -
+* TOKEN
+* Middleware
 
 # What i learn, pratice: 
 <ul>
@@ -57,7 +62,7 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 </ul>
  
 # Status:
-Project is:  _finished_
+Project is:  _V3_Middleware
 
 # Contact:
 Created by Hugo BARNAS
