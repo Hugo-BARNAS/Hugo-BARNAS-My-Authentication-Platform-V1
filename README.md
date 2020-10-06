@@ -7,8 +7,8 @@
 ![](https://img.shields.io/badge/vuex-made%20in-green)
 
 
-# Project Name: 
-My Authentication Platform (V1 & V2)
+# Project Name: My Authentication Platform (V1, V2, V3)
+
 
 # Link Project: 
 https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
