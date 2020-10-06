@@ -13,7 +13,7 @@
 ## Link Project: 
 https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=sharing
 
-# Techno used:
+## Techno used:
 > Js -
 > BootstrapVue -
 > SQL - 
