@@ -58,9 +58,12 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 * JwtTOKEN
 * Middleware
 
-## What i learn, pratice: 
+## What i learn and pratice: 
 <ul>
- <li>SQL database
+ <li>Router
+ <li>pros
+ <li>Component
+ <li>Used SQL database
  <li>MySQL SELECT FROM
  <li>MySQL INSERT INTO
  <li>MySQL WHERE 
