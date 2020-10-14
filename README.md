@@ -53,8 +53,7 @@ https://drive.google.com/file/d/1gTFKnYhzJ4EB9rkcS1tDpCR4KW3kgnh9/view?usp=shari
 * SQL database
 * bcrypt 
 * Hash
-* HASH -
-* TOKEN
+* JwtTOKEN
 * Middleware
 
 ## What i learn, pratice: 
