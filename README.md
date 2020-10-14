@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/vuex-made%20in-green)
 <p>
 <img src="https://user-images.githubusercontent.com/57058997/96006114-6e39ae80-0e3d-11eb-8519-5edda4aeac1b.png" height="50">
+<img src="https://user-images.githubusercontent.com/57058997/96007920-477c7780-0e3f-11eb-8e86-15d9c63895e8.png" height="50">
 </p>
 
 
