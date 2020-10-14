@@ -5,6 +5,9 @@
 ![](https://img.shields.io/badge/Vue.js?logo=Vue.js&color=green)
 <img src="https://img.shields.io/badge/vue.router-green.svg" alt="vue-router">
 ![](https://img.shields.io/badge/vuex-made%20in-green)
+<p>
+<img src="https://user-images.githubusercontent.com/57058997/96006114-6e39ae80-0e3d-11eb-8519-5edda4aeac1b.png" height="50">
+</p>
 
 
 # Project Name: My Authentication Platform (V1, V2, V3)
