@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Node.js-inactive?logo=Node.js&color=brightgreen)
 ![](https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&color=blueviolet)
 ![](https://img.shields.io/badge/Vue.js?logo=Vue.js&color=green)
-![](https://img.shields.io/badge/Vue.router-green.svg)
+![](https://img.shields.io/badge/Vue.router-green?logo=Vue.js&color=green)
 ![](https://img.shields.io/badge/vuex-green)
 <p>
 <img src="https://user-images.githubusercontent.com/57058997/96007920-477c7780-0e3f-11eb-8e86-15d9c63895e8.png" height="50">
