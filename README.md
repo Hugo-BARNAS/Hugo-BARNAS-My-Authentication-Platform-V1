@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&color=blueviolet)
 ![](https://img.shields.io/badge/Vue.js-lightgrey?logo=Vue.js&color=lightgrey)
 ![](https://img.shields.io/badge/Vue.router-lightgrey?logo=Vue.js&color=lightgrey)
-![](https://img.shields.io/badge/vuex-lightgrey?logo=Vue.js&color=lightgrey)
+![](https://img.shields.io/badge/Vuex-lightgrey?logo=Vue.js&color=lightgrey)
 <p>
 <img src="https://user-images.githubusercontent.com/57058997/96007920-477c7780-0e3f-11eb-8e86-15d9c63895e8.png" height="50">
 <img src="https://user-images.githubusercontent.com/57058997/96036427-ba4c1980-0e64-11eb-9dd3-6845dd430fc0.png" height="50">
