@@ -3,9 +3,9 @@
 ![](https://img.shields.io/badge/Node.js-inactive?logo=Node.js&color=brightgreen)
 ![](https://img.shields.io/badge/Bootstrap-blueviolet?logo=Bootstrap&color=blueviolet)
 ![](https://img.shields.io/badge/Vue.js?logo=Vue.js&color=green)
+![](https://img.shields.io/badge/vue.router-green.svg" alt="vue-router)
 ![](https://img.shields.io/badge/vuex-made%20in-green)
 <p>
-<img src="https://img.shields.io/badge/vue.router-green.svg" alt="vue-router">
 <img src="https://user-images.githubusercontent.com/57058997/96007920-477c7780-0e3f-11eb-8e86-15d9c63895e8.png" height="50">
 <img src="https://user-images.githubusercontent.com/57058997/96036427-ba4c1980-0e64-11eb-9dd3-6845dd430fc0.png" height="50">
 <img src="https://user-images.githubusercontent.com/57058997/96035390-44937e00-0e63-11eb-98ea-7cd329ae927f.png" height="50">
